@@ -122,5 +122,6 @@ p {
 
 .dummytext {
   position: absolute;
+  padding: 5px;
   top: 27px;
 }
